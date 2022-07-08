@@ -1,7 +1,7 @@
 <?php 
  /**
  * Plugin name: Carrousel
- * Description: Carrousel d'images créé à partir d'une galeried'images.
+ * Description: Carrousel d'images créé à partir d'une galeried'images
  * Author: RBC
  * Author URI: https://github.com/e2194579
  * Plugin URI: https://github.com/e2194579/31w-carrousel.git

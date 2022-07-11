@@ -4,7 +4,7 @@
  * Description: Carrousel d'images créé à partir d'une galeried'images
  * Author: RBC
  * Author URI: https://github.com/e2194579
- * Plugin URI: https://github.com/e2194579/31w-carrousel.git
+ * Plugin URI: https://github.com/e2194579/31w-carrousel.gi
  */
 
 function carrousel_31w_enqueue()
